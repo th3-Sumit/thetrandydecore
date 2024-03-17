@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f756b909.css",
+    "main.js": "/static/js/main.781f0c92.js",
+    "static/js/453.68e851c0.chunk.js": "/static/js/453.68e851c0.chunk.js",
+    "static/media/overhead-view-books-ladders.jpg": "/static/media/overhead-view-books-ladders.6868c58345642945bb1a.jpg",
+    "static/media/5122344_2521.jpeg": "/static/media/5122344_2521.4a3ac0d4d92dbd7c7313.jpeg",
+    "static/media/4330515_136.jpeg": "/static/media/4330515_136.715b29fe75d628423a44.jpeg",
+    "static/media/909537_OBFJDK0.jpeg": "/static/media/909537_OBFJDK0.c1de9e58578ee2f2b717.jpeg",
+    "static/media/composition-black-friday-shopping-cart-with-copy-space.jpg": "/static/media/composition-black-friday-shopping-cart-with-copy-space.94d0c1b638d2285da1ae.jpg",
+    "static/media/88801074_DJV JUL 2361-10.jpeg": "/static/media/88801074_DJV JUL 2361-10.798711ba97cd935ebdaa.jpeg",
+    "static/media/3742217_1987338.jpeg": "/static/media/3742217_1987338.6880a63c2cba64acb259.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.f756b909.css.map": "/static/css/main.f756b909.css.map",
+    "main.781f0c92.js.map": "/static/js/main.781f0c92.js.map",
+    "453.68e851c0.chunk.js.map": "/static/js/453.68e851c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f756b909.css",
+    "static/js/main.781f0c92.js"
+  ]
+}

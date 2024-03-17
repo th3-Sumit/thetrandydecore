@@ -1,0 +1,14 @@
+.header_text{
+    bottom: 40% !important;
+}
+
+#header-section a{
+    font-size: 2rem;
+    font-weight: bold;
+}
+#product-section img{
+    height: 240px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
